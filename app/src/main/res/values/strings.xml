@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyCalc</string>
+    <style name="C">c</style>
+    <style name="del">del</style>
+
+</resources>
